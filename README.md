@@ -14,4 +14,4 @@ This level 100-200 introductory session is delivered by the FastTrack for Azure 
 |         |                                                                                                               | Reporting                                                     | [Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/workbooks-overview)													
 |         |  	                                                                                                            | Network monitoring with Network Watcher                       |[Network Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics) </br> 					
 
-[[End-to-end example (Web and data workload)](SAMPLE.md)]
+[End-to-end example (Web and data workload)](SAMPLE.md)
